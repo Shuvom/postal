@@ -12,7 +12,7 @@ import java.io.*;
  *
  * @author Fran&ccedil;ois B&eacute;langer
  * @author Dr Timothy C. Lethbridge
- * @version July 2014
+ * @version
  */
 public class PostalTest
 {
